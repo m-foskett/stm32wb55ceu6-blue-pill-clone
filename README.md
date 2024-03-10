@@ -5,3 +5,4 @@ STM32 Blue Pill Clone Firmware
 - Bluetooth enabled
 - USB powered
 - Tag-Connect Serial Wire Debug Interface
+- UART Header
