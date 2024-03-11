@@ -6,3 +6,4 @@ STM32 Blue Pill Clone Firmware
 - USB powered
 - Tag-Connect Serial Wire Debug Interface
 - UART Header
+- u.FL Antenna connector
