@@ -9,3 +9,4 @@ Board Features
 - Tag-Connect Serial Wire Debug Interface
 - UART Header
 - u.FL Antenna connector with Impedance Matching Circuit
+- Boot Select Button
