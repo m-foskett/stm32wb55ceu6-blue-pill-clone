@@ -10,3 +10,5 @@ Board Features
 - UART Header
 - u.FL Antenna connector with Impedance Matching Circuit
 - Boot Select Button
+
+Electrical Schematic
