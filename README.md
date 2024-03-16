@@ -12,3 +12,5 @@ Board Features
 - Boot Select Button
 
 Electrical Schematic
+
+PCB Design
