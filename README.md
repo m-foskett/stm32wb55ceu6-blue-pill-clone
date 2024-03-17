@@ -11,6 +11,6 @@ Board Features
 - u.FL Antenna connector with Impedance Matching Circuit
 - Boot Select Button
 
-Electrical Schematic
+Electrical Schematic made using KiCad
 
 PCB Design
